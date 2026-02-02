@@ -28,7 +28,7 @@ The website adapts perfectly to **desktop, tablet, and mobile screens**, featuri
 
 ## 🌐 Live Demo
 
-👉 **[Click Here to View the Live Demo](https://snehameganathan.github.io/Character_Counter/)**  
+👉 **[Click Here to View the Live Demo](https://snehameganathan.github.io/Nostra_Project/)**  
 *(Replace the above link with your GitHub Pages or hosting URL once deployed.)*
 
 ---
